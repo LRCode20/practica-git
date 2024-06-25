@@ -1,2 +1,6 @@
 hola git !
 git add .
+
+agregar la version 2!
+
+pasaremos a la version 3!
